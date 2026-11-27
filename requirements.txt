@@ -1,0 +1,25 @@
+# LangChain and AI agents
+langchain
+langchain-community
+langchain-experimental
+langchain-google-community
+langchain-tavily
+langchain-groq
+langchain-openai
+langgraph
+
+# Backend
+fastapi
+uvicorn
+pydantic
+httpx
+requests
+
+# Frontend
+streamlit
+
+# Environment variables
+python-dotenv
+
+
+-e . 
